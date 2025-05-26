@@ -43,8 +43,3 @@ This project focuses on identifying critical regions in chest X-ray images to su
 
 ![Results Visualization](images/pneumonia_fovex_visualization.png)
 *Figure: Combined visualization showing the original X-ray, expert annotations (green bounding boxes), and FovEx heatmap (semi-transparent, jet colormap).*
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
